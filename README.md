@@ -8,7 +8,7 @@ ICTAC 2022 - 19th International Colloquium, Tbilisi, Georgia, September 27-29, 2
 
 
 Read the [reference manual](../../wiki/Reference-Manual) to review the Alk syntax.
-Also consider the [Alk-by example](../../wiki/Alk-by-examples) wiki to understand how Alk behaves in real-scenarios.
+Also, consider the [Alk-by example](../../wiki/Alk-by-examples) wiki to understand how Alk behaves in real scenarios.
 
 # Using the Alk VS Code Extension
 1. Install VS Code from the official [page](https://code.visualstudio.com/download).
